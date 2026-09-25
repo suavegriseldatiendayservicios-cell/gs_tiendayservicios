@@ -1,6 +1,6 @@
 
 
-## 📌 Progreso de Etapas (Bitácora de Hoy)
+## 📌 Progreso de Etapas (Bitácora de 25/09/2026)
 
 ### 🔹 ETAPA 1 — Descubrir (Entender el negocio real)
 * **Objetivo**: Establecer las bases operativas de la tienda física/digital y servicios.
