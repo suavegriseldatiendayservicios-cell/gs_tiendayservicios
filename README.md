@@ -61,3 +61,4 @@ VITE_N8N_WEBHOOK_URL=tu_n8n_webhook_url
 * `/docs`: Propuesta comercial, templates de atención y especificaciones del proyecto.
 * `/assets`: Material gráfico, identidades visuales e iconografía del negocio.
 * `/templates`: Flujos de atención comercial y guiones de respuesta.
+Ver el detalle metodológico y avance de sprints en [SPRINTS.md](./SPRINTS.md)
