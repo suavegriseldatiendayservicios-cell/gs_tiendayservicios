@@ -9,7 +9,7 @@ Repositorio centralizado para la organización, estructuración y automatizació
 **GS Tienda & Servicios** es un emprendimiento enfocado en brindar una solución integral a las necesidades cotidianas del hogar y uso personal. Combina la comercialización de productos con la prestación de servicios bajo un modelo de atención directa y personalizada.
 
 *   **Línea de Productos:** Indumentaria, Calzado, Deportes, Blanquería, Bazar y Juguetes.
-*   **Línea de Servicios:** Belelza integral, Coordinación de Viajes.
+*   **Línea de Servicios:** Belleza integral, Coordinación de Viajes.
 
 El objetivo central de este proyecto es transformar una operación 100% manual en una estructura organizada, digitalizada y escalable.
 
